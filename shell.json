@@ -1,0 +1,200 @@
+{
+  "bar": {
+    "centerAnchor": "omarchy.clock",
+    "layout": {
+      "center": [
+        {
+          "id": "omarchy.indicators"
+        },
+        {
+          "id": "omarchy.keyboard-layout"
+        },
+        {
+          "id": "omarchy.weather"
+        },
+        {
+          "id": "io.github.dragosol.better-displays-pro"
+        },
+        {
+          "id": "omaplug"
+        },
+        {
+          "id": "omarchy.clock"
+        },
+        {
+          "id": "omarchy.system-update"
+        },
+        {
+          "id": "omarchy.media"
+        }
+      ],
+      "left": [
+        {
+          "id": "evindor.keystroke"
+        },
+        {
+          "id": "omarchy.workspaces"
+        },
+        {
+          "id": "omarchy.active-window"
+        }
+      ],
+      "right": [
+        {
+          "hidden": [],
+          "id": "io.github.tyrichards.tray",
+          "order": [
+            "omarchy.tray",
+            "io.github.x3me.nexthop",
+            "io.github.liambateman.countdown",
+            "CherryStudio_status_icon_1",
+            "Throne",
+            "TelegramDesktop"
+          ],
+          "widgets": [
+            {
+              "entry": {
+                "id": "io.github.liambateman.countdown",
+                "notificationsEnabled": false
+              },
+              "listed": true
+            },
+            {
+              "entry": {
+                "id": "omarchy.tray"
+              },
+              "listed": true
+            },
+            {
+              "entry": {
+                "id": "io.github.x3me.nexthop"
+              },
+              "listed": true
+            }
+          ]
+        },
+        {
+          "id": "io.github.mich-nduka.omaports"
+        },
+        {
+          "id": "ssupt.bluetooth-audio"
+        },
+        {
+          "id": "io.github.sahzudin.omarchy-screenshot-manager"
+        },
+        {
+          "id": "ianswope.snapshots"
+        },
+        {
+          "id": "community.cn-input"
+        },
+        {
+          "id": "crmne.omastats",
+          "modules": "cpu",
+          "barSensors": "cpu",
+          "tabs": "cpu,memory,disks,network,sensors,battery",
+          "barLabels": "text",
+          "temperatureUnit": "Celsius",
+          "style": "both",
+          "cpuStyle": "ring",
+          "gpuStyle": "",
+          "memoryStyle": "",
+          "disksStyle": "",
+          "networkStyle": "",
+          "sensorsStyle": "",
+          "batteryStyle": "",
+          "graphWidth": 36,
+          "disksSource": "all",
+          "refreshSeconds": 1,
+          "historySeconds": 240,
+          "publicIp": true,
+          "showProcesses": true,
+          "showCores": true,
+          "showLoad": true,
+          "showGpu": true,
+          "showBreakdown": true,
+          "showVolumes": true,
+          "showActivity": true,
+          "showInterfaces": true,
+          "showTotals": true,
+          "showAddresses": true,
+          "showTemperatures": true,
+          "showFans": true,
+          "showHistory": true,
+          "showDetails": true,
+          "showDevices": true
+        },
+        {
+          "id": "stappmus.activity-monitor",
+          "openExpanded": true
+        },
+        {
+          "id": "omarchy.network"
+        },
+        {
+          "id": "omarchy.audio"
+        },
+        {
+          "id": "omarchy.power"
+        },
+        {
+          "id": "omarchy.monitor"
+        },
+        {
+          "id": "el.power-monitor"
+        },
+        {
+          "id": "omarchy.tailscale"
+        },
+        {
+          "id": "slcode777.omagotchi"
+        },
+        {
+          "id": "hancore.voxtype-enhance",
+          "middleMouseToggle": false,
+          "recordingAnimation": true
+        },
+        {
+          "id": "io.github.mutahir.omavault"
+        },
+        {
+          "id": "fabuseless.ssh-tunnel-manager"
+        },
+        {
+          "id": "settings-sync"
+        }
+      ]
+    },
+    "position": "top",
+    "transparent": false
+  },
+  "idle": {
+    "lock": 300,
+    "screensaver": 150
+  },
+  "plugins": [
+    {
+      "id": "io.github.liambateman.countdown"
+    },
+    {
+      "hidden": [
+        "CherryStudio_status_icon_1"
+      ],
+      "id": "omarchy.tray",
+      "pinned": []
+    },
+    {
+      "id": "io.github.x3me.nexthop"
+    },
+    {
+      "id": "io.github.skalawag.disk-health"
+    }
+  ],
+  "version": 1,
+  "disabledPlugins": [
+    "omarchy.menu"
+  ],
+  "cloneSourceRestores": [
+    "evindor.keystroke"
+  ]
+}

@@ -1,0 +1,4 @@
+#!/bin/bash
+# Input Menu: keep the fcitx5 candidate window colors in step with the Omarchy theme.
+[[ -x /home/el/.config/omarchy/plugins/io.github.ray0907.input-menu/scripts/theme && -O /home/el/.config/omarchy/plugins/io.github.ray0907.input-menu/scripts/theme ]] && /home/el/.config/omarchy/plugins/io.github.ray0907.input-menu/scripts/theme apply >/dev/null 2>&1
+exit 0

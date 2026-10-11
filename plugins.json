@@ -1,0 +1,140 @@
+[
+  {
+    "id": "stappmus.activity-monitor",
+    "url": "https://github.com/stappmus/omarchy-activity-monitor.git",
+    "commit": "b25a98c7ff2a688ab74d86d2be42249e2db2f9cf",
+    "enabled": true
+  },
+  {
+    "id": "ssupt.bluetooth-audio",
+    "url": "https://github.com/ssupt/omarchy-bluetooth-audio.git",
+    "commit": "96704bfbd0360abe5d69003032ab0932c0981a86",
+    "enabled": true
+  },
+  {
+    "id": "io.github.dragosol.better-displays-pro",
+    "url": "https://github.com/dragosol/omarchy-better-displays.git",
+    "commit": "c5c3355bd26943f8f6b11ea43dd4685f79495639",
+    "enabled": true
+  },
+  {
+    "id": "community.cn-input",
+    "url": "https://github.com/gohlihan/omarchy-cn-input-plugin.git",
+    "commit": "10aa3ccb81ee90bed5d8ed657a0a09d5d5900e8d",
+    "enabled": true
+  },
+  {
+    "id": "io.github.liambateman.countdown",
+    "url": "https://github.com/LiamBateman/omarchy-countdown.git",
+    "commit": "cac50a39c8ccbca04f1ade0a710cfcdc09f53a35",
+    "enabled": false
+  },
+  {
+    "id": "io.github.skalawag.disk-health",
+    "url": "https://github.com/skalawag/disk-health",
+    "commit": "e80e7f6226b22a56a0e471afe971f2a6fc779c48",
+    "enabled": true
+  },
+  {
+    "id": "nixfred.infomarchy",
+    "url": "https://github.com/nixfred/infomarchy.git",
+    "commit": "dc15afaaedf7105294f9a58e89c1537c4ec1a6bd",
+    "enabled": false
+  },
+  {
+    "id": "evindor.keystroke",
+    "url": "https://github.com/evindor/keystroke.git",
+    "commit": "b7a10ca7fb4e4644244b50d29b7b4d16f9db46ff",
+    "enabled": true
+  },
+  {
+    "id": "el.clock",
+    "url": "omarchy.clock",
+    "commit": "",
+    "enabled": false
+  },
+  {
+    "id": "crmne.omastats",
+    "url": "https://github.com/crmne/omastats.git",
+    "commit": "e884c28040ac1a3df4a3e1ef9b33d858a736cfdd",
+    "enabled": true
+  },
+  {
+    "id": "io.github.mutahir.omavault",
+    "url": "https://github.com/mutahir/omavault.git",
+    "commit": "b7c92fe8a50ddc7a6871a4fa681dfc7bdb4231c2",
+    "enabled": true
+  },
+  {
+    "id": "slcode777.omagotchi",
+    "url": "https://github.com/SLcode777/omagotchi.git",
+    "commit": "c04d94aa4b0d17fe9ea906928325c4eaa5166bbb",
+    "enabled": true
+  },
+  {
+    "id": "io.github.mich-nduka.omaports",
+    "url": "https://github.com/mich-nduka/omaports.git",
+    "commit": "d6c5f72816b27e33037e0289e5a21884893e46fe",
+    "enabled": true
+  },
+  {
+    "id": "io.github.sahzudin.omarchy-screenshot-manager",
+    "url": "https://github.com/sahzudin/omarchy-screenshot-manager.git",
+    "commit": "5588ef389651583d206e16fca9a78556ebdf2354",
+    "enabled": true
+  },
+  {
+    "id": "io.github.weedwhitesandwine.plug",
+    "url": "https://github.com/weedwhitesandwine/plug.git",
+    "commit": "993f7c55b8fc21dab34b446bcf53401dc595edba",
+    "enabled": false
+  },
+  {
+    "id": "omaplug",
+    "url": "https://github.com/fross100/omaplug.git",
+    "commit": "64df56e876846247ded550890c52b7b190776b3e",
+    "enabled": true
+  },
+  {
+    "id": "el.power-monitor",
+    "url": "",
+    "commit": "",
+    "enabled": true
+  },
+  {
+    "id": "fabuseless.ssh-tunnel-manager",
+    "url": "https://github.com/fabuseless/ssh-tunnel-manager.git",
+    "commit": "5a590f163904fa0cc842717f4a6175757c19efc0",
+    "enabled": true
+  },
+  {
+    "id": "settings-sync",
+    "url": "https://github.com/isaactopo/omarchy-settings-sync.git",
+    "commit": "58d0704c9549a733c8c70ddde7165f2e7fb46445",
+    "enabled": true
+  },
+  {
+    "id": "ianswope.snapshots",
+    "url": "https://github.com/ianswope/omarchy-snapshots.git",
+    "commit": "780bde5a646dbd17daa233f574ac75800aa2960d",
+    "enabled": true
+  },
+  {
+    "id": "io.github.agkrishnendu.nightlight",
+    "url": "https://github.com/agkrishnendu/omarchy-nightlight.git",
+    "commit": "40a75c86d9af0a2fe118dd7e19624bee90b50549",
+    "enabled": false
+  },
+  {
+    "id": "io.github.tyrichards.tray",
+    "url": "https://github.com/TyRichards/omarchy-tray.git",
+    "commit": "5c0d9a9f0efcf151f93b5cf991916221671d1601",
+    "enabled": true
+  },
+  {
+    "id": "hancore.voxtype-enhance",
+    "url": "https://github.com/iamcheyan/omarchy-voxtype-enhance.git",
+    "commit": "47226f6ffcdd5268689dc7b0755dd55380a553ba",
+    "enabled": true
+  }
+]
