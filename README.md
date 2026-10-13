@@ -3,12 +3,12 @@
 Managed by the **settings-sync** Omarchy plugin. Do not edit by hand —
 run `settings-sync-ctl backup --push` on your machine instead.
 
-- Date: 2026-10-11T03:07:54Z
+- Date: 2026-10-13T16:24:09Z
 - Host: omarchy
 - Theme: Catppuccin Latte
-- Third-party plugins: 23
+- Third-party plugins: 22
 
-## Plugins (23)
+## Plugins (22)
 
 | Plugin | State | Source |
 |---|---|---|
@@ -32,7 +32,6 @@ run `settings-sync-ctl backup --push` on your machine instead.
 | `fabuseless.ssh-tunnel-manager` | enabled | https://github.com/fabuseless/ssh-tunnel-manager.git @ 5a590f16 |
 | `settings-sync` | enabled | https://github.com/isaactopo/omarchy-settings-sync.git @ 58d0704c |
 | `ianswope.snapshots` | enabled | https://github.com/ianswope/omarchy-snapshots.git @ 780bde5a |
-| `io.github.agkrishnendu.nightlight` | disabled | https://github.com/agkrishnendu/omarchy-nightlight.git @ 40a75c86 |
 | `io.github.tyrichards.tray` | enabled | https://github.com/TyRichards/omarchy-tray.git @ 5c0d9a9f |
 | `hancore.voxtype-enhance` | enabled | https://github.com/iamcheyan/omarchy-voxtype-enhance.git @ 47226f6f |
 

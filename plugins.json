@@ -120,12 +120,6 @@
     "enabled": true
   },
   {
-    "id": "io.github.agkrishnendu.nightlight",
-    "url": "https://github.com/agkrishnendu/omarchy-nightlight.git",
-    "commit": "40a75c86d9af0a2fe118dd7e19624bee90b50549",
-    "enabled": false
-  },
-  {
     "id": "io.github.tyrichards.tray",
     "url": "https://github.com/TyRichards/omarchy-tray.git",
     "commit": "5c0d9a9f0efcf151f93b5cf991916221671d1601",
