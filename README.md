@@ -3,7 +3,7 @@
 Managed by the **settings-sync** Omarchy plugin. Do not edit by hand —
 run `settings-sync-ctl backup --push` on your machine instead.
 
-- Date: 2026-10-13T16:24:09Z
+- Date: 2026-10-17T04:14:50Z
 - Host: omarchy
 - Theme: Catppuccin Latte
 - Third-party plugins: 22
@@ -21,7 +21,7 @@ run `settings-sync-ctl backup --push` on your machine instead.
 | `nixfred.infomarchy` | disabled | https://github.com/nixfred/infomarchy.git @ dc15afaa |
 | `evindor.keystroke` | enabled | https://github.com/evindor/keystroke.git @ b7a10ca7 |
 | `el.clock` | disabled | omarchy.clock |
-| `crmne.omastats` | enabled | https://github.com/crmne/omastats.git @ e884c280 |
+| `crmne.omastats` | enabled | https://github.com/crmne/omastats.git @ ab3fc7d0 |
 | `io.github.mutahir.omavault` | enabled | https://github.com/mutahir/omavault.git @ b7c92fe8 |
 | `slcode777.omagotchi` | enabled | https://github.com/SLcode777/omagotchi.git @ c04d94aa |
 | `io.github.mich-nduka.omaports` | enabled | https://github.com/mich-nduka/omaports.git @ d6c5f728 |
