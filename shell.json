@@ -1,6 +1,6 @@
 {
   "bar": {
-    "centerAnchor": "omarchy.clock",
+    "centerAnchor": "io.github.twelvejie.lunar-clock",
     "layout": {
       "center": [
         {
@@ -19,13 +19,15 @@
           "id": "omaplug"
         },
         {
-          "id": "omarchy.clock"
-        },
-        {
           "id": "omarchy.system-update"
         },
         {
           "id": "omarchy.media"
+        },
+        {
+          "id": "io.github.twelvejie.lunar-clock",
+          "format": "HH:mm",
+          "weekStartDay": "sunday"
         }
       ],
       "left": [
@@ -166,7 +168,7 @@
       ]
     },
     "position": "top",
-    "transparent": false
+    "transparent": true
   },
   "idle": {
     "lock": 300,

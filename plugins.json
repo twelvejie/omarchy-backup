@@ -24,6 +24,12 @@
     "enabled": true
   },
   {
+    "id": "io.github.twelvejie.lunar-clock",
+    "url": "https://github.com/twelvejie/omarchy-lunar-clock.git",
+    "commit": "fafe24e79a9c9c6a5968415979aa080464e84aef",
+    "enabled": true
+  },
+  {
     "id": "io.github.liambateman.countdown",
     "url": "https://github.com/LiamBateman/omarchy-countdown.git",
     "commit": "cac50a39c8ccbca04f1ade0a710cfcdc09f53a35",
@@ -46,12 +52,6 @@
     "url": "https://github.com/evindor/keystroke.git",
     "commit": "b7a10ca7fb4e4644244b50d29b7b4d16f9db46ff",
     "enabled": true
-  },
-  {
-    "id": "el.clock",
-    "url": "omarchy.clock",
-    "commit": "",
-    "enabled": false
   },
   {
     "id": "crmne.omastats",
