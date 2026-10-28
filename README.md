@@ -3,12 +3,12 @@
 Managed by the **settings-sync** Omarchy plugin. Do not edit by hand —
 run `settings-sync-ctl backup --push` on your machine instead.
 
-- Date: 2026-10-18T08:14:14Z
+- Date: 2026-10-28T13:01:03Z
 - Host: omarchy
 - Theme: Theme Liftoff
-- Third-party plugins: 22
+- Third-party plugins: 23
 
-## Plugins (22)
+## Plugins (23)
 
 | Plugin | State | Source |
 |---|---|---|
@@ -16,7 +16,7 @@ run `settings-sync-ctl backup --push` on your machine instead.
 | `ssupt.bluetooth-audio` | enabled | https://github.com/ssupt/omarchy-bluetooth-audio.git @ 96704bfb |
 | `io.github.dragosol.better-displays-pro` | enabled | https://github.com/dragosol/omarchy-better-displays.git @ c5c3355b |
 | `community.cn-input` | enabled | https://github.com/gohlihan/omarchy-cn-input-plugin.git @ 10aa3ccb |
-| `io.github.twelvejie.lunar-clock` | enabled | https://github.com/twelvejie/omarchy-lunar-clock.git @ fafe24e7 |
+| `io.github.twelvejie.lunar-clock` | enabled | https://github.com/twelvejie/omarchy-lunar-clock.git @ 75c6335b |
 | `io.github.liambateman.countdown` | disabled | https://github.com/LiamBateman/omarchy-countdown.git @ cac50a39 |
 | `io.github.skalawag.disk-health` | enabled | https://github.com/skalawag/disk-health @ e80e7f62 |
 | `nixfred.infomarchy` | disabled | https://github.com/nixfred/infomarchy.git @ dc15afaa |
@@ -34,6 +34,7 @@ run `settings-sync-ctl backup --push` on your machine instead.
 | `ianswope.snapshots` | enabled | https://github.com/ianswope/omarchy-snapshots.git @ 780bde5a |
 | `io.github.tyrichards.tray` | enabled | https://github.com/TyRichards/omarchy-tray.git @ 5c0d9a9f |
 | `hancore.voxtype-enhance` | enabled | https://github.com/iamcheyan/omarchy-voxtype-enhance.git @ 47226f6f |
+| `io.github.legibet.sing-box-bar` | enabled | https://github.com/legibet/sing-box-bar.git @ fbcf7f8a |
 
 Restore on a fresh install:
 

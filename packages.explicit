@@ -89,6 +89,7 @@ jq
 kdenlive
 keepassxc
 kernel-modules-hook
+kero-bin
 kitty
 lazydocker
 lazygit
@@ -164,6 +165,7 @@ ripgrep
 ruby
 satisfactory-mod-manager-appimage
 sddm
+sing-box
 slurp
 smartmontools
 socat
@@ -213,6 +215,7 @@ yaru-icon-theme
 yay
 yt-dlp
 zbar
+zcode-bin
 zed
 zoxide
 zram-generator

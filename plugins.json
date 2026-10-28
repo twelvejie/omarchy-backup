@@ -26,7 +26,7 @@
   {
     "id": "io.github.twelvejie.lunar-clock",
     "url": "https://github.com/twelvejie/omarchy-lunar-clock.git",
-    "commit": "fafe24e79a9c9c6a5968415979aa080464e84aef",
+    "commit": "75c6335b3481ea632a0eb2df51ef22a3daa13055",
     "enabled": true
   },
   {
@@ -129,6 +129,12 @@
     "id": "hancore.voxtype-enhance",
     "url": "https://github.com/iamcheyan/omarchy-voxtype-enhance.git",
     "commit": "47226f6ffcdd5268689dc7b0755dd55380a553ba",
+    "enabled": true
+  },
+  {
+    "id": "io.github.legibet.sing-box-bar",
+    "url": "https://github.com/legibet/sing-box-bar.git",
+    "commit": "fbcf7f8a6cddf5c47e7588dc1f648df86ff9a5fb",
     "enabled": true
   }
 ]
