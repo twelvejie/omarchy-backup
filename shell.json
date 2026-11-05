@@ -1,11 +1,15 @@
 {
   "bar": {
-    "centerAnchor": "io.github.twelvejie.lunar-clock",
+    "background": "glassy",
     "layout": {
       "center": [
         {
-          "id": "omarchy.keyboard-layout"
-        },
+          "format": "HH:mm",
+          "id": "io.github.twelvejie.lunar-clock",
+          "weekStartDay": "sunday"
+        }
+      ],
+      "centerBegin": [
         {
           "id": "omarchy.weather"
         },
@@ -20,12 +24,9 @@
         },
         {
           "id": "io.github.dragosol.better-displays-pro"
-        },
-        {
-          "id": "io.github.twelvejie.lunar-clock",
-          "format": "HH:mm",
-          "weekStartDay": "sunday"
-        },
+        }
+      ],
+      "centerEnd": [
         {
           "id": "omarchy.media"
         }
@@ -42,6 +43,9 @@
         }
       ],
       "right": [
+        {
+          "id": "omarchy.keyboard-layout"
+        },
         {
           "hidden": [],
           "id": "io.github.tyrichards.tray",
@@ -91,40 +95,40 @@
           "id": "community.cn-input"
         },
         {
-          "id": "crmne.omastats",
-          "modules": "cpu",
-          "barSensors": "cpu",
-          "tabs": "cpu,memory,disks,network,sensors,battery",
           "barLabels": "text",
-          "temperatureUnit": "Celsius",
-          "style": "both",
-          "cpuStyle": "ring",
-          "gpuStyle": "",
-          "memoryStyle": "",
-          "disksStyle": "",
-          "networkStyle": "",
-          "sensorsStyle": "",
+          "barSensors": "cpu",
           "batteryStyle": "",
-          "graphWidth": 36,
+          "cpuStyle": "ring",
           "disksSource": "all",
-          "refreshSeconds": 1,
+          "disksStyle": "",
+          "gpuStyle": "",
+          "graphWidth": 36,
           "historySeconds": 240,
+          "id": "crmne.omastats",
+          "memoryStyle": "",
+          "modules": "cpu",
+          "networkStyle": "",
           "publicIp": true,
-          "showProcesses": true,
-          "showCores": true,
-          "showLoad": true,
-          "showGpu": true,
-          "showBreakdown": true,
-          "showVolumes": true,
+          "refreshSeconds": 1,
+          "sensorsStyle": "",
           "showActivity": true,
-          "showInterfaces": true,
-          "showTotals": true,
           "showAddresses": true,
-          "showTemperatures": true,
-          "showFans": true,
-          "showHistory": true,
+          "showBreakdown": true,
+          "showCores": true,
           "showDetails": true,
-          "showDevices": true
+          "showDevices": true,
+          "showFans": true,
+          "showGpu": true,
+          "showHistory": true,
+          "showInterfaces": true,
+          "showLoad": true,
+          "showProcesses": true,
+          "showTemperatures": true,
+          "showTotals": true,
+          "showVolumes": true,
+          "style": "both",
+          "tabs": "cpu,memory,disks,network,sensors,battery",
+          "temperatureUnit": "Celsius"
         },
         {
           "id": "stappmus.activity-monitor",
@@ -167,12 +171,43 @@
         },
         {
           "id": "io.github.legibet.sing-box-bar"
+        },
+        {
+          "cities": [
+            {
+              "name": "Shanghai",
+              "zone": "Asia/Shanghai"
+            },
+            {
+              "name": "Los Angeles",
+              "zone": "America/Los_Angeles"
+            },
+            {
+              "name": "New York",
+              "zone": "America/New_York"
+            },
+            {
+              "name": "London",
+              "zone": "Europe/London"
+            },
+            {
+              "name": "Dubai",
+              "zone": "Asia/Dubai"
+            }
+          ],
+          "id": "omarchy.elsewhen"
         }
-      ]
+      ],
+      "tray": []
     },
-    "position": "top",
-    "transparent": true
+    "position": "top"
   },
+  "cloneSourceRestores": [
+    "evindor.keystroke"
+  ],
+  "disabledPlugins": [
+    "omarchy.menu"
+  ],
   "idle": {
     "lock": 300,
     "screensaver": 150
@@ -198,11 +233,5 @@
       "id": "io.github.twelvejie.lunar-clock"
     }
   ],
-  "version": 1,
-  "disabledPlugins": [
-    "omarchy.menu"
-  ],
-  "cloneSourceRestores": [
-    "evindor.keystroke"
-  ]
+  "version": 1
 }

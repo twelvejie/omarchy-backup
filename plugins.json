@@ -8,13 +8,13 @@
   {
     "id": "ssupt.bluetooth-audio",
     "url": "https://github.com/ssupt/omarchy-bluetooth-audio.git",
-    "commit": "96704bfbd0360abe5d69003032ab0932c0981a86",
+    "commit": "8d0c9b78bde6e2ee4b6ec1a5fa88ff72bcf66e5e",
     "enabled": true
   },
   {
     "id": "io.github.dragosol.better-displays-pro",
     "url": "https://github.com/dragosol/omarchy-better-displays.git",
-    "commit": "c5c3355bd26943f8f6b11ea43dd4685f79495639",
+    "commit": "019cd3721336084e9adb7e36b740fff60a6321ae",
     "enabled": true
   },
   {
@@ -44,19 +44,19 @@
   {
     "id": "nixfred.infomarchy",
     "url": "https://github.com/nixfred/infomarchy.git",
-    "commit": "dc15afaaedf7105294f9a58e89c1537c4ec1a6bd",
+    "commit": "a4d105e6c76265017c74d511bbed62f4c1b12582",
     "enabled": false
   },
   {
     "id": "evindor.keystroke",
     "url": "https://github.com/evindor/keystroke.git",
-    "commit": "b7a10ca7fb4e4644244b50d29b7b4d16f9db46ff",
+    "commit": "0c74f2dd7466f25faf2cda4a39697f237afbe774",
     "enabled": true
   },
   {
     "id": "crmne.omastats",
     "url": "https://github.com/crmne/omastats.git",
-    "commit": "ab3fc7d053c5bcd1deb1d0960b29d09c7d79c6fd",
+    "commit": "495eabdcbd232ba2d6fb4eefcd996248176cca52",
     "enabled": true
   },
   {
@@ -86,13 +86,13 @@
   {
     "id": "io.github.weedwhitesandwine.plug",
     "url": "https://github.com/weedwhitesandwine/plug.git",
-    "commit": "993f7c55b8fc21dab34b446bcf53401dc595edba",
+    "commit": "71b167606e26144159f3c0c9b84a16878453286b",
     "enabled": false
   },
   {
     "id": "omaplug",
     "url": "https://github.com/fross100/omaplug.git",
-    "commit": "64df56e876846247ded550890c52b7b190776b3e",
+    "commit": "ebfec41a28b50bc1ddf352d72d5e1718dfd331cc",
     "enabled": true
   },
   {

@@ -3,7 +3,7 @@
 Managed by the **settings-sync** Omarchy plugin. Do not edit by hand —
 run `settings-sync-ctl backup --push` on your machine instead.
 
-- Date: 2026-10-28T13:01:03Z
+- Date: 2026-11-05T13:29:05Z
 - Host: omarchy
 - Theme: Theme Liftoff
 - Third-party plugins: 23
@@ -13,21 +13,21 @@ run `settings-sync-ctl backup --push` on your machine instead.
 | Plugin | State | Source |
 |---|---|---|
 | `stappmus.activity-monitor` | enabled | https://github.com/stappmus/omarchy-activity-monitor.git @ b25a98c7 |
-| `ssupt.bluetooth-audio` | enabled | https://github.com/ssupt/omarchy-bluetooth-audio.git @ 96704bfb |
-| `io.github.dragosol.better-displays-pro` | enabled | https://github.com/dragosol/omarchy-better-displays.git @ c5c3355b |
+| `ssupt.bluetooth-audio` | enabled | https://github.com/ssupt/omarchy-bluetooth-audio.git @ 8d0c9b78 |
+| `io.github.dragosol.better-displays-pro` | enabled | https://github.com/dragosol/omarchy-better-displays.git @ 019cd372 |
 | `community.cn-input` | enabled | https://github.com/gohlihan/omarchy-cn-input-plugin.git @ 10aa3ccb |
 | `io.github.twelvejie.lunar-clock` | enabled | https://github.com/twelvejie/omarchy-lunar-clock.git @ 75c6335b |
 | `io.github.liambateman.countdown` | disabled | https://github.com/LiamBateman/omarchy-countdown.git @ cac50a39 |
 | `io.github.skalawag.disk-health` | enabled | https://github.com/skalawag/disk-health @ e80e7f62 |
-| `nixfred.infomarchy` | disabled | https://github.com/nixfred/infomarchy.git @ dc15afaa |
-| `evindor.keystroke` | enabled | https://github.com/evindor/keystroke.git @ b7a10ca7 |
-| `crmne.omastats` | enabled | https://github.com/crmne/omastats.git @ ab3fc7d0 |
+| `nixfred.infomarchy` | disabled | https://github.com/nixfred/infomarchy.git @ a4d105e6 |
+| `evindor.keystroke` | enabled | https://github.com/evindor/keystroke.git @ 0c74f2dd |
+| `crmne.omastats` | enabled | https://github.com/crmne/omastats.git @ 495eabdc |
 | `io.github.mutahir.omavault` | enabled | https://github.com/mutahir/omavault.git @ b7c92fe8 |
 | `slcode777.omagotchi` | enabled | https://github.com/SLcode777/omagotchi.git @ c04d94aa |
 | `io.github.mich-nduka.omaports` | enabled | https://github.com/mich-nduka/omaports.git @ d6c5f728 |
 | `io.github.sahzudin.omarchy-screenshot-manager` | enabled | https://github.com/sahzudin/omarchy-screenshot-manager.git @ 5588ef38 |
-| `io.github.weedwhitesandwine.plug` | disabled | https://github.com/weedwhitesandwine/plug.git @ 993f7c55 |
-| `omaplug` | enabled | https://github.com/fross100/omaplug.git @ 64df56e8 |
+| `io.github.weedwhitesandwine.plug` | disabled | https://github.com/weedwhitesandwine/plug.git @ 71b16760 |
+| `omaplug` | enabled | https://github.com/fross100/omaplug.git @ ebfec41a |
 | `el.power-monitor` | enabled | (no URL recorded) |
 | `fabuseless.ssh-tunnel-manager` | enabled | https://github.com/fabuseless/ssh-tunnel-manager.git @ 5a590f16 |
 | `settings-sync` | enabled | https://github.com/isaactopo/omarchy-settings-sync.git @ 58d0704c |
