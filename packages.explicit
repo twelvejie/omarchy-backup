@@ -1,6 +1,7 @@
 aether
 alsa-utils
 android-tools
+appimagemanager
 asdcontrol
 base
 base-devel
@@ -18,7 +19,6 @@ bun
 cherry-studio-bin
 chromium
 clang
-clash-verge-rev-bin
 cliamp
 cryptomator-bin
 cups
@@ -26,6 +26,7 @@ cups-filters
 cups-pk-helper
 dbeaver
 ddcutil
+debtap
 disktree-bin
 docker
 docker-buildx
@@ -68,7 +69,10 @@ gnome-themes-extra
 google-chrome
 gpu-screen-recorder
 grim
+gst-libav
 gst-plugin-pipewire
+gst-plugins-bad
+gst-plugins-good
 gvfs-mtp
 gvfs-nfs
 gvfs-smb
@@ -211,6 +215,7 @@ uwsm
 vi
 voxtype-bin
 vulkan-radeon
+webkitgtk-6.0
 wechat-bin
 whois
 wireless-regdb

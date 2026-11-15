@@ -1,6 +1,6 @@
 {
   "bar": {
-    "background": "glassy",
+    "background": "opaque",
     "layout": {
       "center": [
         {
@@ -168,9 +168,6 @@
         },
         {
           "id": "settings-sync"
-        },
-        {
-          "id": "io.github.legibet.sing-box-bar"
         },
         {
           "cities": [

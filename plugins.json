@@ -14,7 +14,7 @@
   {
     "id": "io.github.dragosol.better-displays-pro",
     "url": "https://github.com/dragosol/omarchy-better-displays.git",
-    "commit": "019cd3721336084e9adb7e36b740fff60a6321ae",
+    "commit": "14c30dcec17766a3382e893fcc9e0abb0dcdfb6d",
     "enabled": true
   },
   {
@@ -44,7 +44,7 @@
   {
     "id": "nixfred.infomarchy",
     "url": "https://github.com/nixfred/infomarchy.git",
-    "commit": "a4d105e6c76265017c74d511bbed62f4c1b12582",
+    "commit": "cec2368d15f2e795101e1e32e14ab4f1251e796d",
     "enabled": false
   },
   {
@@ -74,7 +74,7 @@
   {
     "id": "io.github.mich-nduka.omaports",
     "url": "https://github.com/mich-nduka/omaports.git",
-    "commit": "d6c5f72816b27e33037e0289e5a21884893e46fe",
+    "commit": "7c79c73cb1726489e3a13c2a6eb59d2a011ed998",
     "enabled": true
   },
   {
@@ -92,7 +92,7 @@
   {
     "id": "omaplug",
     "url": "https://github.com/fross100/omaplug.git",
-    "commit": "ebfec41a28b50bc1ddf352d72d5e1718dfd331cc",
+    "commit": "5fb645e522de5c79f7ac58d6506c6d31973ca1d0",
     "enabled": true
   },
   {
@@ -129,12 +129,6 @@
     "id": "hancore.voxtype-enhance",
     "url": "https://github.com/iamcheyan/omarchy-voxtype-enhance.git",
     "commit": "47226f6ffcdd5268689dc7b0755dd55380a553ba",
-    "enabled": true
-  },
-  {
-    "id": "io.github.legibet.sing-box-bar",
-    "url": "https://github.com/legibet/sing-box-bar.git",
-    "commit": "fbcf7f8a6cddf5c47e7588dc1f648df86ff9a5fb",
     "enabled": true
   }
 ]
