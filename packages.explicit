@@ -1,7 +1,11 @@
 aether
+ai.storyteller.filmcraft
+ai.storyteller.gridcraft
+ai.storyteller.wordcraft
 alsa-utils
 android-tools
 appimagemanager
+artcraft-launcher-bin
 asdcontrol
 base
 base-devel
@@ -54,6 +58,7 @@ fcitx5-rime
 fd
 feishu-bin
 ffmpegthumbnailer
+finallyshell-git
 firefox
 fish
 foot
@@ -128,7 +133,6 @@ mise-bin
 mkinitcpio
 monologue
 moonlight-qt
-motrix-next-bin
 mp3-tagger-appimage
 mpv
 mpv-mpris
@@ -185,7 +189,6 @@ slurp
 smartmontools
 socat
 sof-firmware
-spotify
 starship
 steam
 sudo
@@ -220,6 +223,7 @@ wechat-bin
 whois
 wireless-regdb
 wireplumber
+witr-bin
 wl-clipboard
 woff2-font-awesome
 wtype

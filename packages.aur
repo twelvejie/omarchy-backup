@@ -1,8 +1,13 @@
+ai.storyteller.filmcraft
+ai.storyteller.gridcraft
+ai.storyteller.wordcraft
 appimagemanager
+artcraft-launcher-bin
 cherry-studio-bin
 cryptomator-bin
 debtap
 dopamine-appimage-preview
+finallyshell-git
 gnome-theme-manager-appimage
 heidisql-qt6-bin
 jetbrains-toolbox
@@ -10,7 +15,6 @@ kero-bin
 linuxqq-nt
 longbridge-bin
 magpie-bin
-motrix-next-bin
 mp3-tagger-appimage
 navicat-premium-lite-en
 postman-bin
@@ -18,4 +22,5 @@ rime-ice-pinyin-git
 satisfactory-mod-manager-appimage
 throne-bin
 toolport-bin
+witr-bin
 zcode-bin

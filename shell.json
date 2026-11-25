@@ -14,7 +14,8 @@
           "id": "omarchy.weather"
         },
         {
-          "id": "omaplug"
+          "id": "omaplug",
+          "bulkUpdateScope": "all"
         },
         {
           "id": "omarchy.system-update"
@@ -228,6 +229,9 @@
     },
     {
       "id": "io.github.twelvejie.lunar-clock"
+    },
+    {
+      "id": "io.voxtype.settings"
     }
   ],
   "version": 1

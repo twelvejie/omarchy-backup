@@ -2,7 +2,7 @@
   {
     "id": "stappmus.activity-monitor",
     "url": "https://github.com/stappmus/omarchy-activity-monitor.git",
-    "commit": "b25a98c7ff2a688ab74d86d2be42249e2db2f9cf",
+    "commit": "c9e3f775f756fcb38ed97bbf8a8a068d56b9f142",
     "enabled": true
   },
   {
@@ -14,7 +14,7 @@
   {
     "id": "io.github.dragosol.better-displays-pro",
     "url": "https://github.com/dragosol/omarchy-better-displays.git",
-    "commit": "14c30dcec17766a3382e893fcc9e0abb0dcdfb6d",
+    "commit": "7daae6139b87dc0d6755d4641d80db903b8dc185",
     "enabled": true
   },
   {
@@ -44,7 +44,7 @@
   {
     "id": "nixfred.infomarchy",
     "url": "https://github.com/nixfred/infomarchy.git",
-    "commit": "cec2368d15f2e795101e1e32e14ab4f1251e796d",
+    "commit": "6898b14b9e09ddda051c7b41ef3f63c6fb29a891",
     "enabled": false
   },
   {
@@ -56,7 +56,7 @@
   {
     "id": "crmne.omastats",
     "url": "https://github.com/crmne/omastats.git",
-    "commit": "495eabdcbd232ba2d6fb4eefcd996248176cca52",
+    "commit": "afd69c9df810d7cc0b21c91cf8e84a3b7d0836ab",
     "enabled": true
   },
   {
@@ -92,7 +92,7 @@
   {
     "id": "omaplug",
     "url": "https://github.com/fross100/omaplug.git",
-    "commit": "5fb645e522de5c79f7ac58d6506c6d31973ca1d0",
+    "commit": "f3566678f6f4b4d9911df1ea60588ab22f9f3cc3",
     "enabled": true
   },
   {
@@ -123,6 +123,12 @@
     "id": "io.github.tyrichards.tray",
     "url": "https://github.com/TyRichards/omarchy-tray.git",
     "commit": "5c0d9a9f0efcf151f93b5cf991916221671d1601",
+    "enabled": true
+  },
+  {
+    "id": "io.voxtype.settings",
+    "url": "",
+    "commit": "",
     "enabled": true
   },
   {
