@@ -3,20 +3,21 @@
 Managed by the **settings-sync** Omarchy plugin. Do not edit by hand —
 run `settings-sync-ctl backup --push` on your machine instead.
 
-- Date: 2026-11-25T13:26:58Z
+- Date: 2026-11-27T14:20:34Z
 - Host: omarchy
 - Theme: Harbor
-- Third-party plugins: 23
+- Third-party plugins: 24
 
-## Plugins (23)
+## Plugins (24)
 
 | Plugin | State | Source |
 |---|---|---|
 | `stappmus.activity-monitor` | enabled | https://github.com/stappmus/omarchy-activity-monitor.git @ c9e3f775 |
-| `ssupt.bluetooth-audio` | enabled | https://github.com/ssupt/omarchy-bluetooth-audio.git @ 8d0c9b78 |
-| `io.github.dragosol.better-displays-pro` | enabled | https://github.com/dragosol/omarchy-better-displays.git @ 7daae613 |
+| `ssupt.bluetooth-audio` | enabled | https://github.com/ssupt/omarchy-bluetooth-audio.git @ 1af36fe5 |
+| `io.github.dragosol.better-displays-pro` | enabled | https://github.com/dragosol/omarchy-better-displays.git @ 1ff0e89a |
 | `community.cn-input` | enabled | https://github.com/gohlihan/omarchy-cn-input-plugin.git @ 10aa3ccb |
 | `io.github.twelvejie.lunar-clock` | enabled | https://github.com/twelvejie/omarchy-lunar-clock.git @ 75c6335b |
+| `io.github.tastyhub.corsair-plimsoll` | enabled | https://github.com/tastyhub/omarchy-corsair-plimsoll.git @ 6db63faa |
 | `io.github.liambateman.countdown` | disabled | https://github.com/LiamBateman/omarchy-countdown.git @ cac50a39 |
 | `io.github.skalawag.disk-health` | enabled | https://github.com/skalawag/disk-health @ e80e7f62 |
 | `nixfred.infomarchy` | disabled | https://github.com/nixfred/infomarchy.git @ 6898b14b |

@@ -89,6 +89,7 @@ hyprland
 hyprland-guiutils
 hyprland-preview-share-picker
 hyprpicker
+hyprpm
 hyprsunset
 imagemagick
 imv
@@ -129,6 +130,7 @@ luarocks
 magpie-bin
 man-db
 mariadb-libs
+meson
 mise-bin
 mkinitcpio
 monologue

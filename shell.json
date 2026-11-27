@@ -7,6 +7,9 @@
           "format": "HH:mm",
           "id": "io.github.twelvejie.lunar-clock",
           "weekStartDay": "sunday"
+        },
+        {
+          "id": "io.github.tastyhub.corsair-plimsoll"
         }
       ],
       "centerBegin": [

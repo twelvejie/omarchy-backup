@@ -8,13 +8,13 @@
   {
     "id": "ssupt.bluetooth-audio",
     "url": "https://github.com/ssupt/omarchy-bluetooth-audio.git",
-    "commit": "8d0c9b78bde6e2ee4b6ec1a5fa88ff72bcf66e5e",
+    "commit": "1af36fe5ce24e69bdd463915ed1d8c776993bc12",
     "enabled": true
   },
   {
     "id": "io.github.dragosol.better-displays-pro",
     "url": "https://github.com/dragosol/omarchy-better-displays.git",
-    "commit": "7daae6139b87dc0d6755d4641d80db903b8dc185",
+    "commit": "1ff0e89a310c3490bdbfb2a63d53a42381e4ecbe",
     "enabled": true
   },
   {
@@ -27,6 +27,12 @@
     "id": "io.github.twelvejie.lunar-clock",
     "url": "https://github.com/twelvejie/omarchy-lunar-clock.git",
     "commit": "75c6335b3481ea632a0eb2df51ef22a3daa13055",
+    "enabled": true
+  },
+  {
+    "id": "io.github.tastyhub.corsair-plimsoll",
+    "url": "https://github.com/tastyhub/omarchy-corsair-plimsoll.git",
+    "commit": "6db63faa2911abf88aae977a35d4fa0fe27c8b7c",
     "enabled": true
   },
   {
